@@ -1,10 +1,13 @@
 .mat-mdc-card-header {
     justify-content: center;
 }
-
 .mat-mdc-card-image {
     height: 600px;
     width: 416px;
+}
+.mat-mdc-card-content{
+    display: flex;
+    justify-content: center;
 }
 
 .mat-mdc-card-content h3{
